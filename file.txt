@@ -1,1 +1,2 @@
 New txt fime for softwere requirement.
+gather the requirements.
